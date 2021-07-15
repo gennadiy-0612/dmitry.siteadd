@@ -1264,8 +1264,6 @@ a {
     .show .keyprinciples-direct::after {
         left: 0;
         top: auto;
-        width: 60%;
-        max-width: 325px;
         background-color: #1378EF;
     }
 
@@ -1582,12 +1580,10 @@ a {
 
     .show .logisticH2::after {
         top: auto;
-        width: 62%;
         background-color: #1378EF;
         height: 2px;
         bottom: 10px;
         margin-bottom: -20px;
-        max-width: 260px;
     }
 
     .logistic__dirrection {
@@ -3453,6 +3449,12 @@ a {
     .emotions__set {
         width: 109%;
         margin-left: -31%;
+    }
+}
+
+@media (min-width: 1070px){
+    .emotions {
+        margin: 90px auto;
     }
 }
 
