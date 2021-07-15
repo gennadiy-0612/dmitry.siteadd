@@ -1,59 +1,329 @@
 [
   {
     "id": "0",
-    "contents": ["<h3 class='agh3mob fontwhite s3__p1 logistic__h3'>Логистика</h3><div class='logistic__items'><div class='logistic__dirrection switcher'><p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>Сократили время обсуживания клиентов </p><div class='extender logicInfo'><p class='agtext fontwhite keyprinciples__hide'>разработали личный кабинет для самостоятельного заказа доставки</p><p class='agtext fontwhite keyprinciples__hide'>сократили среднее время на оформление заказа с 17 до 5 минут</p><p class='agtext fontwhite keyprinciples__hide'>перевели постоянных клиентов на самообслуживание в личном кабинете</p></div></div><div class='logistic__dirrection switcher'><p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>Реализовали онлайн оплату</p><div class='extender logicInfo'><p class='agtext fontwhite keyprinciples__hide'>оплата для физ лиц через интернет-эквайринг</p><p class='agtext fontwhite keyprinciples__hide'>автоматическое выставление счетов и закрывающих документов для юр. лиц</p><p class='agtext fontwhite keyprinciples__hide'>реализовали двустороннюю интеграцию личного кабинета и 1С</p></div></div><div class='logistic__dirrection switcher'><p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>Реализовали агрегатор доставки</p><div class='extender logicInfo'><p class='agtext fontwhite keyprinciples__hide'>расчет стоимости и сроков доставки 10 перевозчиков на 1 сайте</p><p class='agtext fontwhite keyprinciples__hide'>реализовали онлайн оформление заказа</p><p class='agtext fontwhite keyprinciples__hide'>реализовали автоматическое заполнение накладных</p></div></div></div>"]
+    "contents": ["<h3 class='agh3mob fontwhite s3__p1 logistic__h3'>Логистика</h3>",
+		"<div class='logistic__items'>",
+		"<div class='logistic__dirrection switcher'>",
+			"<p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>Сократили время обсуживания клиентов </p>",
+		"<div class='extender logicInfo'>",
+			"<p class='agtext fontwhite keyprinciples__hide'>разработали личный кабинет для самостоятельного заказа доставки</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>сократили среднее время на оформление заказа с 17 до 5 минут</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>перевели постоянных клиентов на самообслуживание в личном кабинете</p>",
+		"</div></div>",
+		"<div class='logistic__dirrection switcher'>",
+			"<p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>Реализовали онлайн оплату</p>",
+		"<div class='extender logicInfo'>",
+			"<p class='agtext fontwhite keyprinciples__hide'>оплата для физ лиц через интернет-эквайринг</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>автоматическое выставление счетов и закрывающих документов для юр. лиц</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>реализовали двустороннюю интеграцию личного кабинета и 1С</p>",
+		"</div></div>",
+		"<div class='logistic__dirrection switcher'>",
+			"<p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>Реализовали агрегатор доставки</p>",
+		"<div class='extender logicInfo'>",
+			"<p class='agtext fontwhite keyprinciples__hide'>расчет стоимости и сроков доставки 10 перевозчиков на 1 сайте</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>реализовали онлайн оформление заказа</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>реализовали автоматическое заполнение накладных</p>",
+		"</div></div>",
+      "</div>"]
   },
   {
     "id": "1",
-    "contents": ["<h3 class='agh3mob fontwhite s3__p1 logistic__h3'>Медицина</h3><div class='logistic__items'><div class='logistic__dirrection switcher'><p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>Разработка CRM-системы</p><div class='extender logicInfo'><p class='agtext fontwhite keyprinciples__hide'>ведение клиентской базы</p><p class='agtext fontwhite keyprinciples__hide'>управление записью на прием к профильным специалистам</p><p class='agtext fontwhite keyprinciples__hide'>сквозная аналитика</p></div></div></div>"]
+    "contents": ["<h3 class='agh3mob fontwhite s3__p1 logistic__h3'>Медицина</h3>",
+		"<div class='logistic__items'>",
+
+		"<div class='logistic__dirrection switcher'>",
+			"<p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>Разработка CRM-системы</p>",
+		"<div class='extender logicInfo'>",
+			"<p class='agtext fontwhite keyprinciples__hide'>ведение клиентской базы</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>управление записью на прием к профильным специалистам</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>сквозная аналитика</p>",
+		"</div></div>",
+
+    "</div>"]
   },
   {
     "id": "2",
-    "contents": ["<h3 class='agh3mob fontwhite s3__p1 logistic__h3'>HoReCa</h3><div class='logistic__items'><div class='logistic__dirrection switcher'><p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>Разработка сайта доставки и мобильного приложения</p><div class='extender logicInfo'><p class='agtext fontwhite keyprinciples__hide'>получение блюд и регистрация заказа в iiko</p><p class='agtext fontwhite keyprinciples__hide'>онлайн оплата</p><p class='agtext fontwhite keyprinciples__hide'>интегарция с iikoCard (система лояльности)</p></div></div><div class='logistic__dirrection switcher'><p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>Разработка дашборда для кухни</p><div class='extender logicInfo'><p class='agtext fontwhite keyprinciples__hide'>контроль времени приготовления заказа</p><p class='agtext fontwhite keyprinciples__hide'>система мотивации персонала</p><p class='agtext fontwhite keyprinciples__hide'>сквозная аналитика для рукодителей</p></div></div><div class='logistic__dirrection switcher'><p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>Разработка электронного меню ресторана</p><div class='extender logicInfo'><p class='agtext fontwhite keyprinciples__hide'>вход через QR-код</p><p class='agtext fontwhite keyprinciples__hide'>единый кабинет для управления сетью ресторанов</p><p class='agtext fontwhite keyprinciples__hide'>сквозная аналитика</p></div></div><div class='logistic__dirrection switcher'><p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>Разработка системы дистанционного обучения</p><div class='extender logicInfo'><p class='agtext fontwhite keyprinciples__hide'>обучение персонала со смартфона</p><p class='agtext fontwhite keyprinciples__hide'>рейтинги сотрудников и мотивация</p><p class='agtext fontwhite keyprinciples__hide'>доступ к базе знаний и актульной документации</p></div></div></div>"]
+    "contents": ["<h3 class='agh3mob fontwhite s3__p1 logistic__h3'>HoReCa</h3>",
+		"<div class='logistic__items'>",
+
+		"<div class='logistic__dirrection switcher'>",
+			"<p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>Разработка сайта доставки и мобильного приложения</p>",
+		"<div class='extender logicInfo'>",
+			"<p class='agtext fontwhite keyprinciples__hide'>получение блюд и регистрация заказа в iiko</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>онлайн оплата</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>интегарция с iikoCard (система лояльности)</p>",
+		"</div></div>",
+
+		"<div class='logistic__dirrection switcher'>",
+			"<p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>Разработка дашборда для кухни</p>",
+		"<div class='extender logicInfo'>",
+			"<p class='agtext fontwhite keyprinciples__hide'>контроль времени приготовления заказа</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>система мотивации персонала</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>сквозная аналитика для рукодителей</p>",
+		"</div></div>",
+
+		"<div class='logistic__dirrection switcher'>",
+			"<p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>Разработка электронного меню ресторана</p>",
+		"<div class='extender logicInfo'>",
+			"<p class='agtext fontwhite keyprinciples__hide'>вход через QR-код</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>единый кабинет для управления сетью ресторанов</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>сквозная аналитика</p>",
+		"</div></div>",
+	 
+		"<div class='logistic__dirrection switcher'>",
+			"<p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>Разработка системы дистанционного обучения</p>",
+		"<div class='extender logicInfo'>",
+			"<p class='agtext fontwhite keyprinciples__hide'>обучение персонала со смартфона</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>рейтинги сотрудников и мотивация</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>доступ к базе знаний и актульной документации</p>",
+		"</div></div>",	
+
+	"</div>"]
   },
   {
     "id": "3",
-    "contents": ["<h3 class='agh3mob fontwhite s3__p1 logistic__h3'>Образование</h3><div class='logistic__items'><div class='logistic__dirrection switcher'><p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>Разработка ситемы дистанционного образования</p><div class='extender logicInfo'><p class='agtext fontwhite keyprinciples__hide'>курсы и обучение онлайн</p><p class='agtext fontwhite keyprinciples__hide'>онлайн проверка знаний и итоговой работы</p><p class='agtext fontwhite keyprinciples__hide'>контроль успеваемости обучающихся</p></div></div><div class='logistic__dirrection switcher'><p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>Разработка электронной библиотеки</p><div class='extender logicInfo'><p class='agtext fontwhite keyprinciples__hide'>доступ к публичным материалам</p><p class='agtext fontwhite keyprinciples__hide'>доступ к закрытым материалам, согласно программе обучения</p></div></div><div class='logistic__dirrection switcher'><p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>Разработка СRM-системы</p><div class='extender logicInfo'><p class='agtext fontwhite keyprinciples__hide'>ведение базы обучающихся</p><p class='agtext fontwhite keyprinciples__hide'>автоматическое создаение приказов и ведомостей</p><p class='agtext fontwhite keyprinciples__hide'>автоматическая рассылка пакета документов и доступов обучающимся</p></div></div><div class='logistic__dirrection switcher'><p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>Разработка чат-бота</p><div class='extender logicInfo'><p class='agtext fontwhite keyprinciples__hide'>ответы на популярные вопросы обучающихся</p><p class='agtext fontwhite keyprinciples__hide'>снижает нагрузку на методистов</p></div></div></div>"]
+    "contents": ["<h3 class='agh3mob fontwhite s3__p1 logistic__h3'>Образование</h3>",
+		"<div class='logistic__items'>",
+	
+		"<div class='logistic__dirrection switcher'>",
+			"<p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>Разработка ситемы дистанционного образования</p>",
+		"<div class='extender logicInfo'>",
+			"<p class='agtext fontwhite keyprinciples__hide'>курсы и обучение онлайн</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>онлайн проверка знаний и итоговой работы</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>контроль успеваемости обучающихся</p>",
+		"</div></div>",
+	
+		"<div class='logistic__dirrection switcher'>",
+			"<p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>Разработка электронной библиотеки</p>",
+		"<div class='extender logicInfo'>",
+			"<p class='agtext fontwhite keyprinciples__hide'>доступ к публичным материалам</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>доступ к закрытым материалам, согласно программе обучения</p>",
+		"</div></div>",
+	
+		"<div class='logistic__dirrection switcher'>",
+			"<p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>Разработка СRM-системы</p>",
+		"<div class='extender logicInfo'>",
+			"<p class='agtext fontwhite keyprinciples__hide'>ведение базы обучающихся</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>автоматическое создаение приказов и ведомостей</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>автоматическая рассылка пакета документов и доступов обучающимся</p>",
+		"</div></div>",
+	
+		"<div class='logistic__dirrection switcher'>",
+			"<p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>Разработка чат-бота</p>",
+		"<div class='extender logicInfo'>",
+			"<p class='agtext fontwhite keyprinciples__hide'>ответы на популярные вопросы обучающихся</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>снижает нагрузку на методистов</p>",
+		"</div></div>",
+	
+	"</div>"]
   },
   {
     "id": "4",
-    "contents": ["<h3 class='agh3mob fontwhite s3__p1 logistic__h3'>Финтех</h3><div class='logistic__items'><div class='logistic__dirrection switcher'><p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>Портал покупки продажи криптовалюты</p><div class='extender logicInfo'><p class='agtext fontwhite keyprinciples__hide'>покупка и продажа крипты</p><p class='agtext fontwhite keyprinciples__hide'>конвертация сбережений в валюты</p><p class='agtext fontwhite keyprinciples__hide'>онлайн мониторинг курсов</p></div></div><div class='logistic__dirrection switcher'><p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>CRM-система</p><div class='extender logicInfo'><p class='agtext fontwhite keyprinciples__hide'>ведение клиентской базы</p><p class='agtext fontwhite keyprinciples__hide'>интегарция с криптобиржами и банками</p><p class='agtext fontwhite keyprinciples__hide'>мониторинг / акцепт транзакций для фин. отдела</p></div></div></div>"]
+    "contents": ["<h3 class='agh3mob fontwhite s3__p1 logistic__h3'>Финтех</h3>",
+		"<div class='logistic__items'>",
+	
+		"<div class='logistic__dirrection switcher'>",
+			"<p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>Портал покупки продажи криптовалюты</p>",
+		"<div class='extender logicInfo'>",
+			"<p class='agtext fontwhite keyprinciples__hide'>покупка и продажа крипты</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>конвертация сбережений в валюты</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>онлайн мониторинг курсов</p>",
+		"</div></div>",
+	 
+		"<div class='logistic__dirrection switcher'>",
+			"<p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>CRM-система</p>",
+		"<div class='extender logicInfo'>",
+			"<p class='agtext fontwhite keyprinciples__hide'>ведение клиентской базы</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>интегарция с криптобиржами и банками</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>мониторинг / акцепт транзакций для фин. отдела</p>",
+		"</div></div>",
+	
+	"</div>"]
   },
   {
     "id": "5",
-    "contents": ["<h3 class='agh3mob fontwhite s3__p1 logistic__h3'>Производство</h3><div class='logistic__items'><div class='logistic__dirrection switcher'><p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>CRM-система</p><div class='extender logicInfo'><p class='agtext fontwhite keyprinciples__hide'>ведение клиентской базы</p><p class='agtext fontwhite keyprinciples__hide'>интеграция с сайтом и 1С для управления заявками</p><p class='agtext fontwhite keyprinciples__hide'>автоматическая печать пакетов документов</p></div></div><div class='logistic__dirrection switcher'><p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>ERP-cистема</p><div class='extender logicInfo'><p class='agtext fontwhite keyprinciples__hide'>управление бизнес-процессами компании</p><p class='agtext fontwhite keyprinciples__hide'>управление себестоимостью изделия</p><p class='agtext fontwhite keyprinciples__hide'>сквозная аналитика</p></div></div><div class='logistic__dirrection switcher'><p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>Дашборд для логистов</p><div class='extender logicInfo'><p class='agtext fontwhite keyprinciples__hide'>управление цепочкой поставок</p><p class='agtext fontwhite keyprinciples__hide'>контроль очереди погрузки/разгрузки</p></div></div></div>"]
+    "contents": ["<h3 class='agh3mob fontwhite s3__p1 logistic__h3'>Производство</h3>",
+		"<div class='logistic__items'>",
+	
+		"<div class='logistic__dirrection switcher'>",
+			"<p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>CRM-система</p>",
+		"<div class='extender logicInfo'>",
+			"<p class='agtext fontwhite keyprinciples__hide'>ведение клиентской базы</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>интеграция с сайтом и 1С для управления заявками</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>автоматическая печать пакетов документов</p>",
+		"</div></div>",
+	
+		"<div class='logistic__dirrection switcher'>",
+			"<p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>ERP-cистема</p>",
+		"<div class='extender logicInfo'>",
+			"<p class='agtext fontwhite keyprinciples__hide'>управление бизнес-процессами компании</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>управление себестоимостью изделия</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>сквозная аналитика</p>",
+		"</div></div>",
+	 
+		"<div class='logistic__dirrection switcher'>",
+			"<p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>Дашборд для логистов</p>",
+		"<div class='extender logicInfo'>",
+			"<p class='agtext fontwhite keyprinciples__hide'>управление цепочкой поставок</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>контроль очереди погрузки/разгрузки</p>",
+		"</div></div>",
+	  
+	"</div>"]
   },
   {
     "id": "6",
-    "contents": ["<h3 class='agh3mob fontwhite s3__p1 logistic__h3'>Аренда/Прокат</h3><div class='logistic__items'><div class='logistic__dirrection switcher'><p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>CRM-система</p><div class='extender logicInfo'><p class='agtext fontwhite keyprinciples__hide'>управление бронированием техники</p><p class='agtext fontwhite keyprinciples__hide'>автоматический подбор аналогов</p><p class='agtext fontwhite keyprinciples__hide'>автоматический расчет вознаграждения владельцев техники</p><p class='agtext fontwhite keyprinciples__hide'>управление материальным долгом</p><p class='agtext fontwhite keyprinciples__hide'>автоматическая генерация печатных форм</p></div></div><div class='logistic__dirrection switcher'><p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>Сайт проката</p><div class='extender logicInfo'><p class='agtext fontwhite keyprinciples__hide'>бронирование техники</p><p class='agtext fontwhite keyprinciples__hide'>продажа товаров в магазине</p></div></div></div>"]
+    "contents": ["<h3 class='agh3mob fontwhite s3__p1 logistic__h3'>Аренда/Прокат</h3>",
+		"<div class='logistic__items'>",
+	
+		"<div class='logistic__dirrection switcher'>",
+			"<p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>CRM-система</p>",
+		"<div class='extender logicInfo'>",
+			"<p class='agtext fontwhite keyprinciples__hide'>управление бронированием техники</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>автоматический подбор аналогов</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>автоматический расчет вознаграждения владельцев техники</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>управление материальным долгом</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>автоматическая генерация печатных форм</p>",
+		"</div></div>",
+	  
+		"<div class='logistic__dirrection switcher'>",
+			"<p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>Сайт проката</p>",
+		"<div class='extender logicInfo'>",
+			"<p class='agtext fontwhite keyprinciples__hide'>бронирование техники</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>продажа товаров в магазине</p>",
+		"</div></div>",
+	  
+	"</div>"] 
   },
   {
     "id": "7",
-    "contents": ["<h3 class='agh3mob fontwhite s3__p1 logistic__h3'>Маркетплейсы</h3><div class='logistic__items'><div class='logistic__dirrection switcher'><p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>Агрегатор доставки</p><div class='extender logicInfo'><p class='agtext fontwhite keyprinciples__hide'>интегация с 10 крупнейшими перевозчиками</p><p class='agtext fontwhite keyprinciples__hide'>онлайн офрмление доставки в любую точку Мира</p><p class='agtext fontwhite keyprinciples__hide'>онлайн оплата и генерация накладных</p></div></div><div class='logistic__dirrection switcher'><p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>Аналитическая платформа</p><div class='extender logicInfo'><p class='agtext fontwhite keyprinciples__hide'>сбор данных по продажам на WB, OZON и пр.</p><p class='agtext fontwhite keyprinciples__hide'>определение трендовых товаров</p><p class='agtext fontwhite keyprinciples__hide'>аналитика объемов продаж конкурентов</p></div></div></div>"]
+    "contents": ["<h3 class='agh3mob fontwhite s3__p1 logistic__h3'>Маркетплейсы</h3>",
+		"<div class='logistic__items'>",
+	
+		"<div class='logistic__dirrection switcher'>",
+			"<p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>Агрегатор доставки</p>",
+		"<div class='extender logicInfo'>",
+			"<p class='agtext fontwhite keyprinciples__hide'>интегация с 10 крупнейшими перевозчиками</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>онлайн офрмление доставки в любую точку Мира</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>онлайн оплата и генерация накладных</p>",
+		"</div></div>",
+	
+		"<div class='logistic__dirrection switcher'>",
+			"<p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>Аналитическая платформа</p>",
+		"<div class='extender logicInfo'>",  
+			"<p class='agtext fontwhite keyprinciples__hide'>сбор данных по продажам на WB, OZON и пр.</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>определение трендовых товаров</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>аналитика объемов продаж конкурентов</p>",
+		"</div></div>",
+	  
+	"</div>"] 
   },
   {
     "id": "8",
-    "contents": ["<h3 class='agh3mob fontwhite s3__p1 logistic__h3'>Оценка</h3><div class='logistic__items'><div class='logistic__dirrection switcher'><p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>Дашбор для руководителей</p><div class='extender logicInfo'><p class='agtext fontwhite keyprinciples__hide'>контроль проектов на каждой стадии оценки</p><p class='agtext fontwhite keyprinciples__hide'>выявление готовых, но не оплаченных проектов</p><p class='agtext fontwhite keyprinciples__hide'>сквозная аналитика по клиентам и проектам</p></div></div><div class='logistic__dirrection switcher'><p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>CRM-система</p><div class='extender logicInfo'><p class='agtext fontwhite keyprinciples__hide'>ведение базы заказчиков и контактных лиц</p><p class='agtext fontwhite keyprinciples__hide'>ведение проекта по этапам оценки</p><p class='agtext fontwhite keyprinciples__hide'>онлайн контроль оплат (интеграция с 1С)</p></div></div></div>"]
+    "contents": ["<h3 class='agh3mob fontwhite s3__p1 logistic__h3'>Оценка</h3>",
+		"<div class='logistic__items'>",
+	
+		"<div class='logistic__dirrection switcher'>",
+			"<p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>Дашбор для руководителей</p>",
+		"<div class='extender logicInfo'>",
+			"<p class='agtext fontwhite keyprinciples__hide'>контроль проектов на каждой стадии оценки</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>выявление готовых, но не оплаченных проектов</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>сквозная аналитика по клиентам и проектам</p>",
+		"</div></div>",
+	  
+		"<div class='logistic__dirrection switcher'>",
+			"<p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>CRM-система</p>",
+		"<div class='extender logicInfo'>",
+			"<p class='agtext fontwhite keyprinciples__hide'>ведение базы заказчиков и контактных лиц</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>ведение проекта по этапам оценки</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>онлайн контроль оплат (интеграция с 1С)</p>",
+		"</div></div>",
+	  
+	"</div>"] 
   },
   {
     "id": "9",
-    "contents": ["<h3 class='agh3mob fontwhite s3__p1 logistic__h3'>Детские центры</h3><div class='logistic__items'><div class='logistic__dirrection switcher'><p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>CRM-система</p><div class='extender logicInfo'><p class='agtext fontwhite keyprinciples__hide'>ведение клиентской базы</p><p class='agtext fontwhite keyprinciples__hide'>быстрое оформление за счет СМС акцепта правил</p><p class='agtext fontwhite keyprinciples__hide'>прием платежей и продажа товаров</p></div></div><div class='logistic__dirrection switcher'><p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>Интеграция со СКУД</p><div class='extender logicInfo'><p class='agtext fontwhite keyprinciples__hide'>контроль посещения ребенком</p></div></div></div>"]
+    "contents": ["<h3 class='agh3mob fontwhite s3__p1 logistic__h3'>Детские центры</h3>",
+		"<div class='logistic__items'>",
+	
+		"<div class='logistic__dirrection switcher'>",
+			"<p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>CRM-система</p>",
+		"<div class='extender logicInfo'>",
+			"<p class='agtext fontwhite keyprinciples__hide'>ведение клиентской базы</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>быстрое оформление за счет СМС акцепта правил</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>прием платежей и продажа товаров</p>",
+		"</div></div>",
+	
+		"<div class='logistic__dirrection switcher'>",
+			"<p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>Интеграция со СКУД</p>",
+		"<div class='extender logicInfo'>",
+			"<p class='agtext fontwhite keyprinciples__hide'>контроль посещения ребенком</p>",
+		"</div></div>",
+	  
+	"</div>"] 
   },
   {
     "id": "10",
-    "contents": ["<h3 class='agh3mob fontwhite s3__p1 logistic__h3'>Театры</h3><div class='logistic__items'><div class='logistic__dirrection switcher'><p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>Сайт госудаственного театра</p><div class='extender logicInfo'><p class='agtext fontwhite keyprinciples__hide'>афиша</p><p class='agtext fontwhite keyprinciples__hide'>покупка билетов онлайн</p><p class='agtext fontwhite keyprinciples__hide'>сбор и ведение клиенской базы</p></div></div></div>"]
+    "contents": ["<h3 class='agh3mob fontwhite s3__p1 logistic__h3'>Театры</h3>",
+		"<div class='logistic__items'>",
+	
+		"<div class='logistic__dirrection switcher'>",
+			"<p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>Сайт госудаственного театра</p>",
+		"<div class='extender logicInfo'>",
+			"<p class='agtext fontwhite keyprinciples__hide'>афиша</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>покупка билетов онлайн</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>сбор и ведение клиенской базы</p>",
+		"</div></div>",
+	  
+	"</div>"] 
   },
   {
     "id": "11",
-    "contents": ["<h3 class='agh3mob fontwhite s3__p1 logistic__h3'>Грузчики</h3><div class='logistic__items'><div class='logistic__dirrection switcher'><p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>CRM-система</p><div class='extender logicInfo'><p class='agtext fontwhite keyprinciples__hide'>распределение заказов, по территориальному местоположению грузчиков</p><p class='agtext fontwhite keyprinciples__hide'>СМС-уведомление бригадира и грузчиков</p><p class='agtext fontwhite keyprinciples__hide'>СМС-уведомление клиента о стоимости услуг</p><p class='agtext fontwhite keyprinciples__hide'>автоматическое выставление счетов и контроль дебиторской задолжености</p><p class='agtext fontwhite keyprinciples__hide'>рейтинг грузчиков и 'черный' список</p></div></div></div>"]
+    "contents": ["<h3 class='agh3mob fontwhite s3__p1 logistic__h3'>Грузчики</h3>",
+		"<div class='logistic__items'>",
+	
+		"<div class='logistic__dirrection switcher'>",
+			"<p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>CRM-система</p>",
+		"<div class='extender logicInfo'>",
+			"<p class='agtext fontwhite keyprinciples__hide'>распределение заказов, по территориальному местоположению грузчиков</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>СМС-уведомление бригадира и грузчиков</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>СМС-уведомление клиента о стоимости услуг</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>автоматическое выставление счетов и контроль дебиторской задолжености</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>рейтинг грузчиков и 'черный' список</p>",
+		"</div></div>",
+	  
+	"</div>"] 
   },
   {
     "id": "12",
-    "contents": ["<h3 class='agh3mob fontwhite s3__p1 logistic__h3'>Спортивные школы</h3><div class='logistic__items'><div class='logistic__dirrection switcher'><p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>CRM-система</p><div class='extender logicInfo'><p class='agtext fontwhite keyprinciples__hide'>ведение клиенской базы</p><p class='agtext fontwhite keyprinciples__hide'>ведение абонементов и баланса клиента</p><p class='agtext fontwhite keyprinciples__hide'>прием оплаты</p><p class='agtext fontwhite keyprinciples__hide'>пересчет абонементов по уважительным причинам</p><p class='agtext fontwhite keyprinciples__hide'>автоматическое заполнение и печать платежных документов, договоров</p></div></div></div>"]
+    "contents": ["<h3 class='agh3mob fontwhite s3__p1 logistic__h3'>Спортивные школы</h3>",
+		"<div class='logistic__items'>",
+	
+		"<div class='logistic__dirrection switcher'>",
+			"<p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>CRM-система</p>",
+		"<div class='extender logicInfo'>",
+			"<p class='agtext fontwhite keyprinciples__hide'>ведение клиенской базы</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>ведение абонементов и баланса клиента</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>прием оплаты</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>пересчет абонементов по уважительным причинам</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>автоматическое заполнение и печать платежных документов, договоров</p>",
+		"</div></div>",
+	  
+	"</div>"] 
   },
   {
     "id": "13",
-    "contents": ["<h3 class='agh3mob fontwhite s3__p1 logistic__h3'>HR</h3><div class='logistic__items'><div class='logistic__dirrection switcher'><p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>CRM-система</p><div class='extender logicInfo'><p class='agtext fontwhite keyprinciples__hide'>ведение базы кандидатов</p><p class='agtext fontwhite keyprinciples__hide'>ведение базы вакансий</p><p class='agtext fontwhite keyprinciples__hide'>история подбора по заказчику</p><p class='agtext fontwhite keyprinciples__hide'>онлайн-тестирование кандидатов</p>",
-		"</div></div></div>"]
+    "contents": ["<h3 class='agh3mob fontwhite s3__p1 logistic__h3'>HR</h3>",
+		"<div class='logistic__items'>",
+	
+		"<div class='logistic__dirrection switcher'>",
+			"<p class='agh2mob__min formh1 logisticH2 fontwhite logicButton finger fingerMob'>CRM-система</p>",
+		"<div class='extender logicInfo'>",
+			"<p class='agtext fontwhite keyprinciples__hide'>ведение базы кандидатов</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>ведение базы вакансий</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>история подбора по заказчику</p>",
+			"<p class='agtext fontwhite keyprinciples__hide'>онлайн-тестирование кандидатов</p>",  
+		"</div></div>",
+	  
+	"</div>"] 
   }
 ]
