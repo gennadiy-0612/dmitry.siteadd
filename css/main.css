@@ -3557,4 +3557,32 @@ canvas {
     }
 }
 
+@media (min-width: 1250px) {
+    .back-site {
+        width: 163.8%;
+        left: -17.1%;
+    }
+}
+
+@media (min-width: 1270px) {
+    .back-site {
+        width: 162.8%;
+        left: -17.1%;
+    }
+}
+
+@media (min-width: 1290px) {
+    .back-site {
+        width: 161.8%;
+        left: -17.1%;
+    }
+}
+
+@media (min-width: 1310px) {
+    .back-site {
+        width: 160.8%;
+        left: -17.1%;
+    }
+}
+
 /*Lines*/
