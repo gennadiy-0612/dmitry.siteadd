@@ -3565,6 +3565,10 @@ canvas {
         width: 122%;
         left: 0.5%;
     }
+
+    .common__form {
+        margin: 0 22% 0 auto;
+    }
 }
 
 @media (min-width: 2304px) {
