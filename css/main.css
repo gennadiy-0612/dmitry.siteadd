@@ -3565,7 +3565,7 @@ canvas {
         width: 121.6%;
         left: 0.5%;
     }
-    
+
     .common__form {
         margin: 0 35.9% 0 auto;
     }
@@ -3576,7 +3576,7 @@ canvas {
         width: 152.1%;
         left: 2.2%;
     }
-    
+
     .common__form {
         margin: 0 52.2% 0 auto;
     }
@@ -3587,12 +3587,20 @@ canvas {
         width: 97.3%;
         left: 12.4%;
     }
+
+    .common__form {
+        margin: 0 52.2% 0 auto;
+    }
 }
 
 @media (min-width: 2880px) {
     .back-site {
-        width: 134.5%;
-        left: 10.1%;
+        width: 121.4%;
+        left: 11.9%;
+    }
+
+    .common__form {
+        margin: 0 68.4% 0 auto;
     }
 }
 
