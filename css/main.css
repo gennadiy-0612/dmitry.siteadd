@@ -3471,6 +3471,9 @@ a {
     .emotions {
         margin: -230px auto 0;
     }
+    .logicButton{
+        padding-right: 5%;
+    }
 }
 
 .loader {
