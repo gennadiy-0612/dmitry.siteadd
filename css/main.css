@@ -3544,14 +3544,14 @@ canvas {
 
 @media (min-width: 1920px) {
     .back-site {
-        max-width: 2344px;
+        width: 139.7%;
         left: 0.5%;
     }
 }
 
 @media (min-width: 2304px) {
     .back-site {
-        max-width: 2363px;
+        width: 139.7%;
         left: 10.5%;
     }
 }
@@ -3565,7 +3565,7 @@ canvas {
 
 @media (min-width: 2880px) {
     .back-site {
-        max-width: 2510px;
+        width: 139.7%;
         left: 11.8%;
     }
 }
