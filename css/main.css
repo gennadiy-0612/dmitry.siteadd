@@ -3587,7 +3587,56 @@ canvas {
 
 @media (min-width: 1360px) {
     .back-site {
-        width: 159.8%;
+        width: 160.4%;
+        left: -17.1%;
+    }
+}
+
+@media (min-width: 1390px) {
+    .back-site {
+        width: 159.4%;
+        left: -17.1%;
+    }
+}
+
+@media (min-width: 1420px) {
+    .back-site {
+        width: 158.4%;
+        left: -17.1%;
+    }
+}
+
+@media (min-width: 1470px) {
+    .back-site {
+        width: 157.4%;
+        left: -17.1%;
+    }
+}
+
+@media (min-width: 1500px) {
+    .back-site {
+        width: 156.4%;
+        left: -17.1%;
+    }
+}
+
+@media (min-width: 1530px) {
+    .back-site {
+        width: 155.4%;
+        left: -17.1%;
+    }
+}
+
+@media (min-width: 1560px) {
+    .back-site {
+        width: 154.4%;
+        left: -17.1%;
+    }
+}
+
+@media (min-width: 1590px) {
+    .back-site {
+        width: 153.4%;
         left: -17.1%;
     }
 }
