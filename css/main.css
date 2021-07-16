@@ -3510,14 +3510,14 @@ canvas {
 
 @media (min-width: 1080px) {
     .back-site {
-        width: 123.8%;
-        left: -11%;
+        width: 224.9%;
+        left: -16%;
     }
 }
 
 @media (min-width: 1090px) {
     .back-site {
-        width: 124.1%;
+        width: 216.1%;
         left: -11.5%;
     }
 }
