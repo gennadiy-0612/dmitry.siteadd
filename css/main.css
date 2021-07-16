@@ -3588,8 +3588,9 @@ canvas {
         left: 12.9%;
     }
 
-    .common__form {
-        margin: 0 49.6% 0 auto;
+    .footback {
+        position: relative;
+        width: 57.75%;
     }
 }
 
