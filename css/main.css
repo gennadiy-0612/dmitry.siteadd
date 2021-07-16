@@ -3471,7 +3471,8 @@ a {
     .emotions {
         margin: -230px auto 0;
     }
-    .logicButton{
+
+    .logicButton {
         padding-right: 5%;
     }
 }
@@ -3504,6 +3505,7 @@ a {
 canvas {
     visibility: visible;
 }
+
 /*Lines*/
 
 @media (min-width: 1080px) {
@@ -3512,22 +3514,25 @@ canvas {
         left: -11%;
     }
 }
-@media (min-width: 1080px) {
-    .back-site {
-        width: 123.8%;
-        left: -11%;
-    }
-}
+
 @media (min-width: 1090px) {
     .back-site {
-        width: 123.8%;
-        left: -11%;
+        width: 124.1%;
+        left: -11.5%;
     }
 }
+
 @media (min-width: 1100px) {
     .back-site {
-        width: 123.8%;
-        left: -11%;
+        width: 124.1%;
     }
 }
+
+@media (min-width: 1100px) {
+    .back-site {
+        width: 124.2%;
+        left: -12.2%;
+    }
+}
+
 /*Lines*/
