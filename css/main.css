@@ -2500,10 +2500,6 @@ a {
         position: relative;
     }
 
-    .cta {
-        margin-top: 80px;
-    }
-
     .cta-a {
         z-index: 0;
         height: 100%;
@@ -2729,9 +2725,6 @@ a {
     .s4__supportpage {
         margin-top: 100px;
         margin-bottom: 180px;
-    }
-
-    .logistic {
     }
 
     .where__h3 {
