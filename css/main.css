@@ -3381,6 +3381,7 @@ a {
 }
 
 #ballIsPlaced {
+    transition: color .7s;
     color: #FFFFFF;
 }
 
