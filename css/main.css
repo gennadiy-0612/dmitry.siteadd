@@ -3526,6 +3526,11 @@ canvas {
         width: 161.9%;
         left: -16%;
     }
+
+    .common__form {
+        padding: 0;
+        margin: 0 0 0 auto;
+    }
 }
 
 @media (min-width: 1600px) {
