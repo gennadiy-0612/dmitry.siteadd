@@ -255,10 +255,6 @@ a {
     width: 122.8%;
     overflow: hidden;
     opacity: .2;
-    max-width: 1920px;
-    margin: auto;
-    left: 0;
-    right: 0;
 }
 
 .vl1, .vl2, .vl3, .vl4 {
