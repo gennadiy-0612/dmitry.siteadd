@@ -3524,14 +3524,15 @@ canvas {
 
 @media (min-width: 1100px) {
     .back-site {
-        width: 124.1%;
+        width: 124.2%;
+        left: -11.4%;
     }
 }
 
-@media (min-width: 1100px) {
+@media (min-width: 1210px) {
     .back-site {
-        width: 124.2%;
-        left: -12.2%;
+        width: 124.8%;
+        left: -12.1%;
     }
 }
 
