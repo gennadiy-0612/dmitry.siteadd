@@ -2850,7 +2850,7 @@ a {
         border-width: 0;
         display: block;
         position: relative;
-        top: -40px;
+        top: -42px;
         left: 24%;
         width: 76%;
         text-indent: 10px;
@@ -2883,7 +2883,7 @@ a {
 
     .index-textarea {
         position: relative;
-        top: -26px;
+        top: -29px;
         left: 0;
         width: 100%;
         height: 95px;
