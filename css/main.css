@@ -3501,3 +3501,30 @@ a {
 canvas {
     visibility: visible;
 }
+/*Lines*/
+
+@media (min-width: 1080px) {
+    .back-site {
+        width: 123.8%;
+        left: -11%;
+    }
+}
+@media (min-width: 1080px) {
+    .back-site {
+        width: 123.8%;
+        left: -11%;
+    }
+}
+@media (min-width: 1090px) {
+    .back-site {
+        width: 123.8%;
+        left: -11%;
+    }
+}
+@media (min-width: 1100px) {
+    .back-site {
+        width: 123.8%;
+        left: -11%;
+    }
+}
+/*Lines*/
