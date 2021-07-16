@@ -3565,8 +3565,8 @@ canvas {
 
 @media (min-width: 2880px) {
     .back-site {
-        width: 124.1%;
-        left: -0.4%;
+        max-width: 2510px;
+        left: 11.8%;
     }
 }
 
