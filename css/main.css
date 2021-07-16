@@ -817,6 +817,7 @@ a {
 
 .show .logisticH2 {
     color: #1378EF;
+    width: 100%;
 }
 
 .folio__img:hover {
@@ -2224,7 +2225,7 @@ a {
     }
 
     .folio__cli {
-        margin: 175px 0 29px 57px;
+        margin: 175px 0 29px 45px;
         font: normal normal 400 20px/34px "Montserrat", sans-serif;
     }
 
@@ -3452,7 +3453,7 @@ a {
     }
 }
 
-@media (min-width: 1070px){
+@media (min-width: 1070px) {
     .emotions {
         margin: 90px auto;
     }
