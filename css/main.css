@@ -2456,6 +2456,7 @@ a {
     .logistic__p5 {
         display: flex;
         position: relative;
+        margin-bottom: 131px;
     }
 
     .logistic__items {
