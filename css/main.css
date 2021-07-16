@@ -2220,6 +2220,10 @@ a {
         font: normal normal 400 16px/27px "Montserrat", sans-serif;
     }
 
+    .font20px {
+        font-size: 20px;
+    }
+
     .whereText {
         font: normal normal 400 22px/33px "Montserrat", sans-serif;
     }
