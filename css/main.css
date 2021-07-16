@@ -3585,4 +3585,11 @@ canvas {
     }
 }
 
+@media (min-width: 1360px) {
+    .back-site {
+        width: 159.8%;
+        left: -17.1%;
+    }
+}
+
 /*Lines*/
