@@ -3516,6 +3516,7 @@ canvas {
 
     .common__form {
         padding: 0;
+        margin: 0 4.1% 0 auto;
     }
 }
 
