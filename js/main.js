@@ -208,7 +208,7 @@ shch.Slider = function (selectorSlide, activeForward, activeBack, setSons) {
         this.two > 0 ? --this.two : this.two = this.length - 1;
         this.three > 0 ? --this.three : this.three = this.length - 1;
         this.four > 0 ? --this.four : this.four = this.length - 1;
-        this.five > 0 ? --this.five : this.five = this.length - 1;
+        this.five > 0 ? --this.five : this.five= this.length - 1;
         this.changer(activeBack, this.one, this.two, this.three, this.four, this.five);
     };
     this.changer = function (st, one, two, three, four, five) {
@@ -257,8 +257,7 @@ shch.Slider = function (selectorSlide, activeForward, activeBack, setSons) {
             this.Item[4].setAttribute('data-json-id', 0);
             this.three = 0;
         }
-        if (this.num === this.length) this.num = 0;
-        if (!this.num) this.num = this.length - 1;
+        this.num ? this.num = 0 : this.num = 1;
     };
 };
 
