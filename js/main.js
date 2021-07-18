@@ -161,8 +161,6 @@ shch.ActionWindow = function (whoIs, whoIsNew) {
         this.heightPap = this.traceEl.offsetHeight;
         this.heightHide = this.topPap + this.heightPap;
         if (window.scrollY > this.topPap - window.innerHeight * .9) {
-            console.clear()
-            console.log(window.scrollY + ' ' + this.topPap + ' ' + this.heightHide + ' window.scrollY  this.topPap this.heightHide')
             this.traceEl.setAttribute('class', this.actClass + ' ' + this.traceElOldClass);
             if (window.scrollY > this.heightHide) {
                 this.traceEl.setAttribute('class', this.traceElOldClass);
@@ -258,7 +256,6 @@ shch.Slider = function (selectorSlide, activeForward, activeBack, setSons) {
             this.three = 0;
         }
         this.num ? this.num = 0 : this.num = 1;
-        console.log(this.num)
     };
 };
 
