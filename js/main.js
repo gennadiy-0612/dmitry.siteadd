@@ -199,12 +199,16 @@ shch.Slider = function (selectorSlide, activeForward, activeBack, setSons) {
         this.one < this.length ? this.one++ : this.one = 0;
         this.two < this.length ? this.two++ : this.two = 0;
         this.three < this.length ? this.three++ : this.three = 0;
+        this.four < this.length ? this.four++ : this.four = 0;
+        this.five < this.length ? this.five++ : this.five = 0;
         this.changer(activeForward, this.one, this.two, this.three, this.four, this.five);
     };
     this.Minus = function () {
         this.one > 0 ? --this.one : this.one = this.length - 1;
         this.two > 0 ? --this.two : this.two = this.length - 1;
         this.three > 0 ? --this.three : this.three = this.length - 1;
+        this.four > 0 ? --this.four : this.four = this.length - 1;
+        this.five > 0 ? --this.five : this.five= this.length - 1;
         this.changer(activeBack, this.one, this.two, this.three, this.four, this.five);
     };
     this.changer = function (st, one, two, three, four, five) {
