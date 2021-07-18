@@ -242,7 +242,7 @@ shch.Slider = function (selectorSlide, activeForward, activeBack, setSons) {
         this.Item[3].setAttribute('class', st + this.num + ' ' + this.Classes);
         if (this.length > four) {
             this.Item[3].innerHTML = setSons[four]['contents'];
-            this.Item[3].setAttribute('data-json-id', this.three);
+            this.Item[3].setAttribute('data-json-id', this.four);
         } else {
             this.Item[3].innerHTML = setSons[0]['contents'];
             this.Item[3].setAttribute('data-json-id', 0);
@@ -251,7 +251,7 @@ shch.Slider = function (selectorSlide, activeForward, activeBack, setSons) {
         this.Item[4].setAttribute('class', st + this.num + ' ' + this.Classes);
         if (this.length > five) {
             this.Item[4].innerHTML = setSons[five]['contents'];
-            this.Item[4].setAttribute('data-json-id', this.three);
+            this.Item[4].setAttribute('data-json-id', this.five);
         } else {
             this.Item[4].innerHTML = setSons[0]['contents'];
             this.Item[4].setAttribute('data-json-id', 0);
