@@ -3116,7 +3116,9 @@ a {
         flex: 1 0 300px;
         max-width: 300px;
     }
-
+    .video__item:first-child{
+        margin-left: -300px;
+    }
     .video__nav-top {
         height: 87%;
         max-width: 100px;
