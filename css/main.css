@@ -2536,6 +2536,10 @@ a {
         display: none;
     }
 
+    .emotions__item:first-child {
+        margin-left: -530px;
+    }
+
     .emotions__set {
         width: 130.8%;
         margin-left: -45%;
