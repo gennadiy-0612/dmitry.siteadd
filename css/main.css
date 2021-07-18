@@ -492,7 +492,7 @@ a {
 
 @keyframes activeBack0 {
     from {
-        transform: translateX(-200px);
+        transform: translateX(-530px);
     }
     to {
         transform: translateX(0);
@@ -501,7 +501,7 @@ a {
 
 @keyframes activeBack1 {
     from {
-        transform: translateX(-200px);
+        transform: translateX(-530px);
     }
     to {
         transform: translateX(0);
