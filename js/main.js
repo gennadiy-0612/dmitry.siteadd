@@ -248,7 +248,7 @@ shch.Slider = function (selectorSlide, activeForward, activeBack, setSons) {
             this.Item[3].setAttribute('data-json-id', 0);
             this.three = 0;
         }
-        this.Item[3].setAttribute('class', st + this.num + ' ' + this.Classes);
+        this.Item[4].setAttribute('class', st + this.num + ' ' + this.Classes);
         if (this.length > five) {
             this.Item[4].innerHTML = setSons[five]['contents'];
             this.Item[4].setAttribute('data-json-id', this.three);
