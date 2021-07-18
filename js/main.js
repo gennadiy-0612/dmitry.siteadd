@@ -199,15 +199,15 @@ shch.Slider = function (selectorSlide, activeForward, activeBack, setSons) {
         this.one < this.length ? this.one++ : this.one = 0;
         this.two < this.length ? this.two++ : this.two = 0;
         this.three < this.length ? this.three++ : this.three = 0;
-        this.changer(activeForward, this.one, this.two, this.three);
+        this.changer(activeForward, this.one, this.two, this.three, this.four, this.five);
     };
     this.Minus = function () {
         this.one > 0 ? --this.one : this.one = this.length - 1;
         this.two > 0 ? --this.two : this.two = this.length - 1;
         this.three > 0 ? --this.three : this.three = this.length - 1;
-        this.changer(activeBack, this.one, this.two, this.three);
+        this.changer(activeBack, this.one, this.two, this.three, this.four, this.five);
     };
-    this.changer = function (st, one, two, three) {
+    this.changer = function (st, one, two, three, four, five) {
         this.Item[0].setAttribute('class', st + this.num + ' ' + this.Classes);
         if (this.length > one) {
             this.Item[0].innerHTML = setSons[one]['contents'];
@@ -233,6 +233,24 @@ shch.Slider = function (selectorSlide, activeForward, activeBack, setSons) {
         } else {
             this.Item[2].innerHTML = setSons[0]['contents'];
             this.Item[2].setAttribute('data-json-id', 0);
+            this.three = 0;
+        }
+        this.Item[3].setAttribute('class', st + this.num + ' ' + this.Classes);
+        if (this.length > four) {
+            this.Item[3].innerHTML = setSons[four]['contents'];
+            this.Item[3].setAttribute('data-json-id', this.three);
+        } else {
+            this.Item[3].innerHTML = setSons[0]['contents'];
+            this.Item[3].setAttribute('data-json-id', 0);
+            this.three = 0;
+        }
+        this.Item[3].setAttribute('class', st + this.num + ' ' + this.Classes);
+        if (this.length > five) {
+            this.Item[4].innerHTML = setSons[five]['contents'];
+            this.Item[4].setAttribute('data-json-id', this.three);
+        } else {
+            this.Item[4].innerHTML = setSons[0]['contents'];
+            this.Item[4].setAttribute('data-json-id', 0);
             this.three = 0;
         }
         this.num ? this.num = 0 : this.num = 1;
