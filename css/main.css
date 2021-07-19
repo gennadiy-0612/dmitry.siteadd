@@ -3581,9 +3581,14 @@ canvas {
         left: -22.8%;
     }
 
+    .buttonmiddle-footer {
+        margin-left: 48.9%;
+    }
+
     .common__form {
         margin: 0 16.5% 0 auto;
     }
+
 }
 
 @media (min-width: 1680px) {
@@ -3600,8 +3605,12 @@ canvas {
         left: -19.5%;
     }
 
+    .buttonmiddle-footer {
+        margin-left: 44.9%;
+    }
+
     .common__form {
-        margin: 0 21.8% 0 auto;
+        margin: 0 22.4% 0 auto;
     }
 }
 
