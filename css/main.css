@@ -2998,10 +2998,6 @@ a {
         z-index: -3;
     }
 
-    .footer {
-        padding-bottom: 110px;
-    }
-
     .footer__setboxes {
         display: flex;
     }
