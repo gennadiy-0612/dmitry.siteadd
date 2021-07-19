@@ -196,11 +196,11 @@ shch.Slider = function (selectorSlide, activeForward, activeBack, setSons) {
     this.Classes = this.Item[0].getAttribute('class');
     console.log(this.Item.length, this.one, this.two, this.three, this.four, this.five);
     this.Plus = function () {
-        this.one < this.length ? ++this.one : this.one = 0;
-        this.two < this.length ? ++this.two : this.two = 0;
-        this.three < this.length ? ++this.three : this.three = 0;
-        this.four < this.length ? ++this.four : this.four = 0;
-        this.five < this.length ? ++this.five : this.five = 0;
+        this.one < this.length ? this.one++ : this.one = 0;
+        this.two < this.length ? this.two++ : this.two = 0;
+        this.three < this.length ? this.three++ : this.three = 0;
+        this.four < this.length ? this.four++ : this.four = 0;
+        this.five < this.length ? this.five++ : this.five = 0;
         // this.changer(activeForward, this.one, this.two, this.three, this.four, this.five);
         console.log(this.one, this.two, this.three, this.four, this.five);
     };
