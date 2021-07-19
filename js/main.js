@@ -201,6 +201,7 @@ shch.Slider = function (selectorSlide, activeForward, activeBack, setSons) {
         this.four <= this.length ? this.four++ : this.four = 0;
         this.five <= this.length ? this.five++ : this.five = 0;
         this.changer(activeForward, this.one, this.two, this.three, this.four, this.five);
+        console.log(activeForward, this.one, this.two, this.three, this.four, this.five);
     };
     this.Minus = function () {
         this.one > 0 ? this.one-- : this.one = this.length - 1;
