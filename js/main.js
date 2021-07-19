@@ -210,6 +210,7 @@ shch.Slider = function (selectorSlide, activeForward, activeBack, setSons) {
         this.four > 0 ? this.four-- : this.four = this.length - 1;
         this.five > 0 ? this.five-- : this.five = this.length - 1;
         this.changer(activeBack, this.one, this.two, this.three, this.four, this.five);
+        console.log(this.Item.length, this.one, this.two, this.three, this.four, this.five);
     };
     this.changer = function (st, one, two, three, four, five) {
         this.Item[0].setAttribute('class', st + this.num + ' ' + this.Classes);
