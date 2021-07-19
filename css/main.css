@@ -492,7 +492,7 @@ a {
 
 @keyframes activeBack0 {
     from {
-        transform: translateX(-530px);
+        transform: translateX(-564px);
     }
     to {
         transform: translateX(0);
@@ -501,7 +501,7 @@ a {
 
 @keyframes activeBack1 {
     from {
-        transform: translateX(-530px);
+        transform: translateX(-564px);
     }
     to {
         transform: translateX(0);
@@ -518,7 +518,7 @@ a {
 
 @keyframes activeForward0 {
     from {
-        transform: translateX(530px);
+        transform: translateX(564px);
     }
     to {
         transform: translateX(0);
@@ -527,7 +527,7 @@ a {
 
 @keyframes activeForward1 {
     from {
-        transform: translateX(530px);
+        transform: translateX(564px);
     }
     to {
         transform: translateX(0);
