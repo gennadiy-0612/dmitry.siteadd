@@ -151,6 +151,7 @@ shch.HeaderTracer = function (tracer) {
         }
     }
 }
+
 shch.ActionWindow = function (whoIs, whoIsNew) {
     this.traceEl = document.querySelector(whoIs);
     this.traceElOldClass = this.traceEl.getAttribute('class');
