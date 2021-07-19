@@ -3538,6 +3538,9 @@ canvas {
         width: 166.4%;
         left: -33.2%;
     }
+    .buttonmiddle-footer {
+        margin-left: 60.5%;
+    }
 }
 
 @media (min-width: 1440px) {
