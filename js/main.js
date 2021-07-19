@@ -215,14 +215,19 @@ shch.Slider = function (selectorSlide, activeForward, activeBack, setSons) {
     };
     this.changer = function (st, one, two, three, four, five) {
         this.Item[0].setAttribute('class', st + this.num + ' ' + this.Classes);
+        if (one > this.length) one = 0;
         this.Item[0].innerHTML = setSons[one]['contents'];
         this.Item[1].setAttribute('class', st + this.num + ' ' + this.Classes);
+        if (two > this.length) two = 0;
         this.Item[1].innerHTML = setSons[two]['contents'];
         this.Item[2].setAttribute('class', st + this.num + ' ' + this.Classes);
+        if (three > this.length) three = 0;
         this.Item[2].innerHTML = setSons[three]['contents'];
         this.Item[3].setAttribute('class', st + this.num + ' ' + this.Classes);
+        if (four > this.length) four = 0;
         this.Item[3].innerHTML = setSons[four]['contents'];
         this.Item[4].setAttribute('class', st + this.num + ' ' + this.Classes);
+        if (five > this.length) five = 0;
         this.Item[4].innerHTML = setSons[five]['contents'];
         this.num ? this.num = 0 : this.num = 1;
     };
