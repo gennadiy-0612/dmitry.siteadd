@@ -3006,6 +3006,7 @@ a {
         margin: -40px 0 0 auto;
         max-width: 870px;
         display: flex;
+        padding-left: 6%;
     }
 
     .footer__p6 {
