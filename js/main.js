@@ -213,10 +213,10 @@ shch.Slider = function (selectorSlide, activeForward, activeBack, setSons) {
     this.changer = function (st, one, two, three, four, five) {
         this.Item[0].setAttribute('class', st + this.num + ' ' + this.Classes);
         if (this.length > one) {
-            this.Item[0].innerHTML = this.one + one + setSons[one]['contents'];
+            this.Item[0].innerHTML = setSons[one]['contents'];
             this.Item[0].setAttribute('data-json-id', this.one);
         }
-        // else {
+            // else {
         //     this.Item[0].innerHTML = setSons[0]['contents'];
         //     this.Item[0].setAttribute('data-json-id', 0);
         //     this.one = 0;
@@ -256,11 +256,11 @@ shch.Slider = function (selectorSlide, activeForward, activeBack, setSons) {
             this.Item[4].innerHTML = setSons[five]['contents'];
             this.Item[4].setAttribute('data-json-id', this.five);
         }
-        // else {
-        //     this.Item[4].innerHTML = setSons[0]['contents'];
-        //     this.Item[4].setAttribute('data-json-id', 0);
-        //     this.three = 0;
-        // }
+        else {
+            this.Item[4].innerHTML = setSons[0]['contents'];
+            this.Item[4].setAttribute('data-json-id', 0);
+            this.three = 0;
+        }
         this.num ? this.num = 0 : this.num = 1;
         console.log(this.one);
         console.log(this.two);
