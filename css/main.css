@@ -3518,6 +3518,10 @@ canvas {
 /*Lines*/
 
 @media (min-width: 1360px) {
+    .footer__p5 {
+        padding-left: 6%;
+    }
+
     .back-site {
         width: 166.5%;
         left: -17.8%;
@@ -3582,6 +3586,7 @@ canvas {
     .footer__p5 {
         padding-left: 18.3%;
     }
+
     .back-site {
         width: 139.1%;
         left: -6.6%;
