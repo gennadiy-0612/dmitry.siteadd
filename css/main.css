@@ -3519,8 +3519,8 @@ canvas {
     }
 
     .back-site {
-        width: 166.5%;
-        left: -17.8%;
+        width: 166.4%;
+        left: -33.2%;
     }
 
     .common__form {
@@ -3531,8 +3531,8 @@ canvas {
 
 @media (min-width: 1400px) {
     .back-site {
-        width: 166.7%;
-        left: -17.8%;
+        width: 166.4%;
+        left: -33.2%;
     }
 }
 
@@ -3547,7 +3547,7 @@ canvas {
 
     .back-site {
         width: 161.9%;
-        left: -16%;
+        left: -30.9%;
     }
 
     .common__form {
@@ -3584,8 +3584,8 @@ canvas {
     }
 
     .back-site {
-        width: 139.1%;
-        left: -6.6%;
+        width: 138.9%;
+        left: -19.5%;
     }
 
     .common__form {
