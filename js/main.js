@@ -267,6 +267,7 @@ shch.Slider = function (selectorSlide, activeForward, activeBack, setSons) {
         console.log(this.three);
         console.log(this.four);
         console.log(this.five);
+        console.log("\\\\\\\\\\\\\\\\\\\\\\\\\\\\");
     };
 };
 
