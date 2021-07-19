@@ -213,10 +213,10 @@ shch.Slider = function (selectorSlide, activeForward, activeBack, setSons) {
     this.changer = function (st, one, two, three, four, five) {
         this.Item[0].setAttribute('class', st + this.num + ' ' + this.Classes);
         if (this.length > one) {
-            this.Item[0].innerHTML = setSons[one]['contents'];
+            this.Item[0].innerHTML = this.one + one + setSons[one]['contents'];
             this.Item[0].setAttribute('data-json-id', this.one);
         }
-            // else {
+        // else {
         //     this.Item[0].innerHTML = setSons[0]['contents'];
         //     this.Item[0].setAttribute('data-json-id', 0);
         //     this.one = 0;
