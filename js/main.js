@@ -201,7 +201,7 @@ shch.Slider = function (selectorSlide, activeForward, activeBack, setSons) {
         this.three < this.length ? ++this.three : this.three = 0;
         this.four < this.length ? ++this.four : this.four = 0;
         this.five < this.length ? ++this.five : this.five = 0;
-        this.changer(activeForward, this.one, this.two, this.three, this.four, this.five);
+        // this.changer(activeForward, this.one, this.two, this.three, this.four, this.five);
         console.log(this, this.Item.length, this.one, this.two, this.three, this.four, this.five);
     };
     this.Minus = function () {
@@ -215,20 +215,15 @@ shch.Slider = function (selectorSlide, activeForward, activeBack, setSons) {
     };
     this.changer = function (st, one, two, three, four, five) {
         this.Item[0].setAttribute('class', st + this.num + ' ' + this.Classes);
-        if (one > this.length) this.one = 0;
-        this.Item[0].innerHTML = setSons[this.one]['contents'];
+        this.Item[0].innerHTML = setSons[one]['contents'];
         this.Item[1].setAttribute('class', st + this.num + ' ' + this.Classes);
-        if (two > this.length) this.two = 0;
-        this.Item[1].innerHTML = setSons[this.two]['contents'];
+        this.Item[1].innerHTML = setSons[two]['contents'];
         this.Item[2].setAttribute('class', st + this.num + ' ' + this.Classes);
-        if (three > this.length) this.three = 0;
-        this.Item[2].innerHTML = setSons[this.three]['contents'];
+        this.Item[2].innerHTML = setSons[three]['contents'];
         this.Item[3].setAttribute('class', st + this.num + ' ' + this.Classes);
-        if (four > this.length) this.four = 0;
-        this.Item[3].innerHTML = setSons[this.four]['contents'];
+        this.Item[3].innerHTML = setSons[four]['contents'];
         this.Item[4].setAttribute('class', st + this.num + ' ' + this.Classes);
-        if (five > this.length) this.five = 0;
-        this.Item[4].innerHTML = setSons[this.five]['contents'];
+        this.Item[4].innerHTML = setSons[five]['contents'];
         this.num ? this.num = 0 : this.num = 1;
     };
 };
