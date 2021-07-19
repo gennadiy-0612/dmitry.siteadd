@@ -215,8 +215,7 @@ shch.Slider = function (selectorSlide, activeForward, activeBack, setSons) {
         if (this.length > one) {
             this.Item[0].innerHTML = setSons[one]['contents'];
             this.Item[0].setAttribute('data-json-id', this.one);
-        }
-        if (this.length == one) {
+        } else {
             this.Item[0].innerHTML = setSons[0]['contents'];
             this.Item[0].setAttribute('data-json-id', 0);
             this.one = 0;
@@ -225,8 +224,7 @@ shch.Slider = function (selectorSlide, activeForward, activeBack, setSons) {
         if (this.length > two) {
             this.Item[1].innerHTML = setSons[two]['contents'];
             this.Item[1].setAttribute('data-json-id', this.two);
-        }
-        if (this.length == two) {
+        } else {
             this.Item[1].innerHTML = setSons[0]['contents'];
             this.Item[1].setAttribute('data-json-id', 0);
             this.two = 0;
@@ -235,8 +233,7 @@ shch.Slider = function (selectorSlide, activeForward, activeBack, setSons) {
         if (this.length > three) {
             this.Item[2].innerHTML = setSons[three]['contents'];
             this.Item[2].setAttribute('data-json-id', this.three);
-        }
-        if (this.length == three) {
+        } else {
             this.Item[2].innerHTML = setSons[0]['contents'];
             this.Item[2].setAttribute('data-json-id', 0);
             this.three = 0;
@@ -245,8 +242,7 @@ shch.Slider = function (selectorSlide, activeForward, activeBack, setSons) {
         if (this.length > four) {
             this.Item[3].innerHTML = setSons[four]['contents'];
             this.Item[3].setAttribute('data-json-id', this.four);
-        }
-        if (this.length == four) {
+        } else {
             this.Item[3].innerHTML = setSons[0]['contents'];
             this.Item[3].setAttribute('data-json-id', 0);
             this.three = 0;
@@ -255,8 +251,7 @@ shch.Slider = function (selectorSlide, activeForward, activeBack, setSons) {
         if (this.length > five) {
             this.Item[4].innerHTML = setSons[five]['contents'];
             this.Item[4].setAttribute('data-json-id', this.five);
-        }
-        if (this.length == five) {
+        } else {
             this.Item[4].innerHTML = setSons[0]['contents'];
             this.Item[4].setAttribute('data-json-id', 0);
             this.three = 0;
