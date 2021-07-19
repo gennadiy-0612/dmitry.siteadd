@@ -256,6 +256,11 @@ shch.Slider = function (selectorSlide, activeForward, activeBack, setSons) {
             this.three = 0;
         }
         this.num ? this.num = 0 : this.num = 1;
+        console.log(this.one);
+        console.log(this.two);
+        console.log(this.three);
+        console.log(this.four);
+        console.log(this.five);
     };
 };
 
