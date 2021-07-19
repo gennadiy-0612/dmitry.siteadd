@@ -2418,7 +2418,6 @@ a {
 
     .where {
         padding-top: 125px;
-        padding-left: 16px;
     }
 
     .keyprinciples {
@@ -3616,6 +3615,10 @@ canvas {
 }
 
 @media (min-width: 1920px) {
+    .where {
+        padding-left: 16px;
+    }
+
     .footer__box {
         max-width: 870px;
     }
@@ -3628,6 +3631,7 @@ canvas {
     .buttonmiddle-footer {
         margin-left: 35.6%;
     }
+
     .common__form {
         margin: 0 35.9% 0 auto;
     }
