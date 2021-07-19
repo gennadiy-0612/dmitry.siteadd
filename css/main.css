@@ -3538,6 +3538,7 @@ canvas {
         width: 166.4%;
         left: -33.2%;
     }
+
     .buttonmiddle-footer {
         margin-left: 60.5%;
     }
@@ -3555,6 +3556,10 @@ canvas {
     .back-site {
         width: 161.9%;
         left: -30.9%;
+    }
+
+    .buttonmiddle-footer {
+        margin-left: 57.9%;
     }
 
     .common__form {
