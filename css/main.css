@@ -3007,7 +3007,7 @@ a {
     }
 
     .footer__p5 {
-        margin: -40px 0 0 auto;
+        margin: -40px 0 50px auto;
         max-width: 870px;
         display: flex;
         padding-left: 7%;
