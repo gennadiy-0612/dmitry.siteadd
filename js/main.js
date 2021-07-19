@@ -212,14 +212,14 @@ shch.Slider = function (selectorSlide, activeForward, activeBack, setSons) {
     };
     this.changer = function (st, one, two, three, four, five) {
         this.Item[0].setAttribute('class', st + this.num + ' ' + this.Classes);
-        if (this.length > this.one) {
+        // if (this.length > this.one) {
             this.Item[0].innerHTML = setSons[one]['contents'];
             this.Item[0].setAttribute('data-json-id', one);
-        } else {
-            this.Item[0].innerHTML = setSons[0]['contents'];
-            this.Item[0].setAttribute('data-json-id', 0);
-            this.one = 0;
-        }
+        // } else {
+        //     this.Item[0].innerHTML = setSons[0]['contents'];
+        //     this.Item[0].setAttribute('data-json-id', 0);
+        //     this.one = 0;
+        // }
         this.Item[1].setAttribute('class', st + this.num + ' ' + this.Classes);
         if (this.length > this.two) {
             this.Item[1].innerHTML = setSons[two]['contents'];
