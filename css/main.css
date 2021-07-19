@@ -484,10 +484,12 @@ a {
 
 .activeBack0 {
     animation: .7s activeBack0;
+    animation-timing-function: linear;
 }
 
 .activeBack1 {
     animation: 1s activeBack1;
+    animation-timing-function: linear;
 }
 
 @keyframes activeBack0 {
@@ -510,10 +512,12 @@ a {
 
 .activeForward0 {
     animation: .7s activeForward0;
+    animation-timing-function: linear;
 }
 
 .activeForward1 {
     animation: .7s activeForward1;
+    animation-timing-function: linear;
 }
 
 @keyframes activeForward0 {
