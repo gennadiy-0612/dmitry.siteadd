@@ -3594,6 +3594,10 @@ canvas {
 }
 
 @media (min-width: 1920px) {
+    .footer__box {
+        max-width: 870px;
+    }
+
     .back-site {
         width: 121.6%;
         left: 11.8%;
