@@ -195,7 +195,6 @@ shch.Slider = function (selectorSlide, activeForward, activeBack, setSons) {
     this.Item = document.querySelectorAll(selectorSlide);
     this.ItemLength = this.Item.length - 1;
     this.Classes = this.Item[0].getAttribute('class');
-    console.log(this.Item.length, this.one, this.two, this.three, this.four, this.five);
     this.Plus = function () {
         this.one < this.ItemLength ? this.one++ : this.one = 0;
         this.two < this.ItemLength ? this.two++ : this.two = 0;
