@@ -2998,9 +2998,10 @@ a {
         z-index: -3;
     }
 
-    .footer{
+    .footer {
         padding-bottom: 110px;
     }
+
     .footer__setboxes {
         display: flex;
     }
@@ -3539,6 +3540,14 @@ canvas {
     .back-site {
         width: 161.9%;
         left: -16%;
+    }
+
+    .footer__box {
+        max-width: 817px;
+    }
+
+    .footer__p5 {
+        margin-left: 8%;
     }
 
     .common__form {
