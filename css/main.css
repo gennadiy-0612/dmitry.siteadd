@@ -3575,6 +3575,13 @@ canvas {
 }
 
 @media (min-width: 1680px) {
+    .footer__box {
+        max-width: 843px;
+    }
+
+    .footer__p5 {
+        padding-left: 18.3%;
+    }
     .back-site {
         width: 139.1%;
         left: -6.6%;
