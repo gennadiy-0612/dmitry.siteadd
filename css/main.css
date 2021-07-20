@@ -533,7 +533,7 @@ a {
 }
 
 .activeBackVideo1 {
-    animation: 1s activeBackVideo1;
+    animation: .7s activeBackVideo1;
     animation-timing-function: linear;
 }
 
@@ -3408,7 +3408,7 @@ a {
     }
 
     .activeBack1 {
-        animation: 1s activeBack1;
+        animation: .7s activeBack1;
         animation-timing-function: linear;
     }
 
@@ -3466,7 +3466,7 @@ a {
     }
 
     .activeBackVideo1 {
-        animation: 1s activeBackVideo1;
+        animation: .7s activeBackVideo1;
         animation-timing-function: linear;
     }
 
