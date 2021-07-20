@@ -2470,7 +2470,7 @@ a {
     }
 
     .switcher::before {
-        top: 48px;
+        top: 52px;
     }
 
     .switchDeskNone.switcher::before {
