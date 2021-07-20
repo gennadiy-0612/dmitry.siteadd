@@ -526,6 +526,64 @@ a {
 }
 
 /*Static*/
+/*Video*/
+.activeBackVideo0 {
+    animation: .7s activeBackVideo0;
+    animation-timing-function: linear;
+}
+
+.activeBackVideo1 {
+    animation: 1s activeBackVideo1;
+    animation-timing-function: linear;
+}
+
+@keyframes activeBackVideo0 {
+    from {
+        transform: translateX(-290px);
+    }
+    to {
+        transform: translateX(0);
+    }
+}
+
+@keyframes activeBackVideo1 {
+    from {
+        transform: translateX(-290px);
+    }
+    to {
+        transform: translateX(0);
+    }
+}
+
+.activeForwardVideo0 {
+    animation: .7s activeForwardVideo0;
+    animation-timing-function: linear;
+}
+
+.activeForwardVideo1 {
+    animation: .7s activeForwardVideo1;
+    animation-timing-function: linear;
+}
+
+@keyframes activeForwardVideo0 {
+    from {
+        transform: translateX(290px);
+    }
+    to {
+        transform: translateX(0);
+    }
+}
+
+@keyframes activeForwardVideo1 {
+    from {
+        transform: translateX(290px);
+    }
+    to {
+        transform: translateX(0);
+    }
+}
+
+/*Video*/
 .emotions__item {
     padding: 10px;
 }

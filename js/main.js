@@ -53,7 +53,7 @@ let shch = {
             shch['#vS'] = new shch.RefreshClass('#videoSlider', 'show', '', '#videoButton', '', '#videoClose');
             shch['#vS']['#videoSlider'].addAct();
             shch.getReq(shch.locate.index1 + 'emotions/static/1.json', '.emotions__set', 'div', 'emotions__item backgray', shch.staticSlider, '.emotions__item', 'activeForward', 'activeBack', '.staticSlidePlus', '.staticSlideMinus', 'slideStatic');
-            shch.getReq(shch.locate.index1 + 'emotions/video/1.json', '.videoEmotionSet', 'div', 'video__item', shch.staticSlider, '.video__item', 'activeForward activeForwardVideo', 'activeBack activeBackVideo', '.videoSlidePlus', '.videoSlideMinus', 'slideVideo', 'videoData');
+            shch.getReq(shch.locate.index1 + 'emotions/video/1.json', '.videoEmotionSet', 'div', 'video__item', shch.staticSlider, '.video__item', 'activeForwardVideo', 'activeBackVideo', '.videoSlidePlus', '.videoSlideMinus', 'slideVideo', 'videoData');
             shch.traceIt = new shch.HeaderTracer('.keyprinciples__trace');
             window.addEventListener('scroll', shch.traceIt.tracingHeader.bind(shch.traceIt));
 
