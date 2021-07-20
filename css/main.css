@@ -469,19 +469,6 @@ a {
 }
 
 /*Static*/
-.activeForward {
-    animation: 1s activeForward;
-}
-
-@keyframes activeForward {
-    from {
-        opacity: 0;
-    }
-    to {
-        opacity: 1;
-    }
-}
-
 .activeBack0 {
     animation: .7s activeBack0;
     animation-timing-function: linear;
@@ -494,7 +481,7 @@ a {
 
 @keyframes activeBack0 {
     from {
-        transform: translateX(-564px);
+        transform: translateX(-290px);
     }
     to {
         transform: translateX(0);
@@ -503,7 +490,7 @@ a {
 
 @keyframes activeBack1 {
     from {
-        transform: translateX(-564px);
+        transform: translateX(-290px);
     }
     to {
         transform: translateX(0);
@@ -522,7 +509,7 @@ a {
 
 @keyframes activeForward0 {
     from {
-        transform: translateX(564px);
+        transform: translateX(290px);
     }
     to {
         transform: translateX(0);
@@ -531,7 +518,7 @@ a {
 
 @keyframes activeForward1 {
     from {
-        transform: translateX(564px);
+        transform: translateX(290px);
     }
     to {
         transform: translateX(0);
@@ -3355,6 +3342,65 @@ a {
         opacity: 1;
         top: 0;
     }
+
+    /*Static*/
+    .activeBack0 {
+        animation: .7s activeBack0;
+        animation-timing-function: linear;
+    }
+
+    .activeBack1 {
+        animation: 1s activeBack1;
+        animation-timing-function: linear;
+    }
+
+    @keyframes activeBack0 {
+        from {
+            transform: translateX(-564px);
+        }
+        to {
+            transform: translateX(0);
+        }
+    }
+
+    @keyframes activeBack1 {
+        from {
+            transform: translateX(-564px);
+        }
+        to {
+            transform: translateX(0);
+        }
+    }
+
+    .activeForward0 {
+        animation: .7s activeForward0;
+        animation-timing-function: linear;
+    }
+
+    .activeForward1 {
+        animation: .7s activeForward1;
+        animation-timing-function: linear;
+    }
+
+    @keyframes activeForward0 {
+        from {
+            transform: translateX(564px);
+        }
+        to {
+            transform: translateX(0);
+        }
+    }
+
+    @keyframes activeForward1 {
+        from {
+            transform: translateX(564px);
+        }
+        to {
+            transform: translateX(0);
+        }
+    }
+
+    /*Static*/
 }
 
 .periodLabelMSG::after {
