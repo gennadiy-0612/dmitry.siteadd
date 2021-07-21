@@ -3792,10 +3792,6 @@ canvas {
 }
 
 @media (min-width: 1920px) {
-    .where {
-        padding-left: 16px;
-    }
-
     .footer__box {
         max-width: 870px;
     }
