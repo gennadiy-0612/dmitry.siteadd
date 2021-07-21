@@ -3676,16 +3676,16 @@ canvas {
 /*Lines*/
 
 @media (min-width: 1300px) {
-    .back-site {
+     .back-site {
         width: 165.5%;
         left: -32.8%;
     }
 
-    .buttonmiddle-footer {
+    #index .buttonmiddle-footer {
         margin-left: 55.8%;
     }
 
-    .common__form {
+    #index .common__form {
         margin: 0 1.2% 0 auto;
     }
 }
@@ -3699,7 +3699,7 @@ canvas {
         margin-left: 58.9%;
     }
 
-    #index .back-site {
+     .back-site {
         width: 166.4%;
         left: -33.2%;
     }
@@ -3711,7 +3711,7 @@ canvas {
 }
 
 @media (min-width: 1400px) {
-    #index .back-site {
+     .back-site {
         width: 166.4%;
         left: -33.2%;
     }
@@ -3730,7 +3730,7 @@ canvas {
         padding-left: 8%;
     }
 
-    #index .back-site {
+     .back-site {
         width: 163.6%;
         left: -31.9%;
     }
@@ -3753,7 +3753,7 @@ canvas {
         padding-left: 15%;
     }
 
-    #index .back-site {
+     .back-site {
         width: 147.2%;
         left: -23.6%;
     }
@@ -3777,7 +3777,7 @@ canvas {
         padding-left: 18.3%;
     }
 
-    #index .back-site {
+     .back-site {
         width: 140.3%;
         left: -20.1%;
     }
@@ -3796,7 +3796,7 @@ canvas {
         max-width: 870px;
     }
 
-    #index .back-site {
+     .back-site {
         width: 122.5%;
         left: 11.6%;
     }
@@ -3811,7 +3811,7 @@ canvas {
 }
 
 @media (min-width: 2304px) {
-    #index .back-site {
+     .back-site {
         width: 152.1%;
         left: 2.2%;
     }
@@ -3822,7 +3822,7 @@ canvas {
 }
 
 @media (min-width: 2560px) {
-    #index .back-site {
+     .back-site {
         width: 91.2%;
         left: 12.9%;
     }
@@ -3838,7 +3838,7 @@ canvas {
 }
 
 @media (min-width: 2880px) {
-    #index .back-site {
+     .back-site {
         width: 121.4%;
         left: 11.9%;
     }
