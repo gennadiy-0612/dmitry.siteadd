@@ -1,22 +1,8 @@
 shch1 = {};
-if (window.location.origin === 'http://newsite.gk-turan.ru') {
-    shch1.locate = {
-        index1: '/',
-        index2: '/index.html'
-    };
-}
-if (window.location.origin === 'https://p.cx.ua') {
-    shch1.locate = {
-        index1: '/pf/dmitriy.site/',
-        index2: '/pf/dmitriy.site/index.html'
-    };
-}
-if (window.location.origin === 'http://localhost:81') {
-    shch1.locate = {
-        index1: '/',
-        index2: '/index.html'
-    };
-}
+shch1.locate = {
+    index1: '/',
+    index2: '/index.html'
+};
 
 let shchs = {mob: 0, desk: 0, port: 0, land: 0};
 if (window.matchMedia("(max-width: 1070px)").matches) {
