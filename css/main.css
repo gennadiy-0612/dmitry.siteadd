@@ -3676,174 +3676,174 @@ canvas {
 /*Lines*/
 
 @media (min-width: 1300px) {
-   .back-site {
+    .back-site {
         width: 165.5%;
-        left: 0;
+        left: -17.3%;;
     }
 
-   .buttonmiddle-footer {
+    .buttonmiddle-footer {
         margin-left: 55.8%;
     }
 
-   .common__form {
+    .common__form {
         margin: 0 1.2% 0 auto;
     }
 }
 
 @media (min-width: 1360px) {
-  .footer__p5 {
+    .footer__p5 {
         padding-left: 6%;
     }
 
-   .buttonmiddle-footer {
+    .buttonmiddle-footer {
         margin-left: 58.9%;
     }
 
-   .back-site {
+    .back-site {
         width: 166.4%;
-        left: 0;
+
     }
 
-   .common__form {
+    .common__form {
         padding: 0;
         margin: 0 -0.2% 0 auto;
     }
 }
 
 @media (min-width: 1400px) {
-   .back-site {
+    .back-site {
         width: 166.4%;
-        left: 0;
+
     }
 
-   .buttonmiddle-footer {
+    .buttonmiddle-footer {
         margin-left: 60.5%;
     }
 }
 
 @media (min-width: 1440px) {
-   .footer__box {
+    .footer__box {
         max-width: 817px;
     }
 
-   .footer__p5 {
+    .footer__p5 {
         padding-left: 8%;
     }
 
-   .back-site {
+    .back-site {
         width: 163.6%;
-        left: 0;
+
     }
 
-   .buttonmiddle-footer {
+    .buttonmiddle-footer {
         margin-left: 58.6%;
     }
 
-   .common__form {
+    .common__form {
         margin: 0 2.7% 0 auto;
     }
 }
 
 @media (min-width: 1600px) {
-   .footer__box {
+    .footer__box {
         max-width: 835px;
     }
 
-   .footer__p5 {
+    .footer__p5 {
         padding-left: 15%;
     }
 
-   .back-site {
+    .back-site {
         width: 147.2%;
-        left: 0;
+
     }
 
-   .buttonmiddle-footer {
+    .buttonmiddle-footer {
         margin: 0 32.4% 0 auto;
     }
 
-   .common__form {
+    .common__form {
         margin: 0 15.5% 0 auto;
     }
 
 }
 
 @media (min-width: 1680px) {
-   .footer__box {
+    .footer__box {
         max-width: 843px;
     }
 
-   .footer__p5 {
+    .footer__p5 {
         padding-left: 18.3%;
     }
 
-   .back-site {
+    .back-site {
         width: 140.3%;
-        left: 0;
+
     }
 
-   .buttonmiddle-footer {
+    .buttonmiddle-footer {
         margin-left: 45.9%;
     }
 
-   .common__form {
+    .common__form {
         margin: 0 20.9% 0 auto;
     }
 }
 
 @media (min-width: 1920px) {
-   .footer__box {
+    .footer__box {
         max-width: 870px;
     }
 
-   .back-site {
+    .back-site {
         width: 122.5%;
-        left: 0;
+
     }
 
-   .buttonmiddle-footer {
+    .buttonmiddle-footer {
         margin-left: 36.2%;
     }
 
-   .common__form {
+    .common__form {
         margin: 0 35.2% 0 auto;
     }
 }
 
 @media (min-width: 2304px) {
-   .back-site {
+    .back-site {
         width: 152.1%;
-        left: 0;
+
     }
 
-   .common__form {
+    .common__form {
         margin: 0 52.2% 0 auto;
     }
 }
 
 @media (min-width: 2560px) {
-   .back-site {
+    .back-site {
         width: 91.2%;
-        left: 0;
+
     }
 
-   .common__form {
+    .common__form {
         margin: 0 49.5% 0 auto;
     }
 
-   .footback {
+    .footback {
         position: relative;
         width: 57.75%;
     }
 }
 
 @media (min-width: 2880px) {
-   .back-site {
+    .back-site {
         width: 121.4%;
-        left: 0;
+
     }
 
-   .common__form {
+    .common__form {
         margin: 0 57.5% 0 auto;
     }
 }
