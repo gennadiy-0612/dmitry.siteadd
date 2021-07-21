@@ -3731,16 +3731,16 @@ canvas {
     }
 
     .back-site {
-        width: 163.6%;
-
+        width: 163.8%;
+        left: -16.7%;
     }
 
     .buttonmiddle-footer {
-        margin-left: 58.6%;
+        margin-left: 58.9%;
     }
 
     .common__form {
-        margin: 0 2.7% 0 auto;
+        margin: 0 2.4% 0 auto;
     }
 }
 
@@ -3754,8 +3754,8 @@ canvas {
     }
 
     .back-site {
-        width: 147.2%;
-
+        width: 147.4%;
+        left: -10%;
     }
 
     .buttonmiddle-footer {
@@ -3779,7 +3779,7 @@ canvas {
 
     .back-site {
         width: 140.3%;
-
+        left: -7.1%;
     }
 
     .buttonmiddle-footer {
@@ -3798,7 +3798,7 @@ canvas {
 
     .back-site {
         width: 122.5%;
-
+        left: -22.6%;
     }
 
     .buttonmiddle-footer {
