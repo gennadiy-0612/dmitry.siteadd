@@ -3700,8 +3700,8 @@ canvas {
     }
 
     .back-site {
-        width: 166.4%;
-
+        width: 166.1%;
+        left: -17.5%;
     }
 
     .common__form {
@@ -3713,7 +3713,7 @@ canvas {
 @media (min-width: 1400px) {
     .back-site {
         width: 166.4%;
-
+        left: -17.7%;
     }
 
     .buttonmiddle-footer {
