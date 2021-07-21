@@ -3744,7 +3744,7 @@ canvas {
     }
 
     .buttonmiddle-footer {
-        margin-left: 48.9%;
+        margin: 0 16% 0 auto;
     }
 
     .common__form {
