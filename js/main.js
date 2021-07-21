@@ -2,30 +2,12 @@
 let shch = {
     burger: function () {
         shch.locate = {};
-        if (window.location.origin === 'http://newsite.gk-turan.ru') {
-            shch.locate = {
-                index1: '/',
-                index2: '/index.html',
-                vacancy: '/vacancy.html',
-                contacts: '/contacts.html'
-            };
-        }
-        if (window.location.origin === 'https://p.cx.ua') {
-            shch.locate = {
-                index1: '/pf/dmitriy.site/',
-                index2: '/pf/dmitriy.site/index.html',
-                vacancy: '/pf/dmitriy.site/vacancy.html',
-                contacts: '/pf/dmitriy.site/contacts.html'
-            };
-        }
-        if (window.location.origin === 'http://localhost:81') {
-            shch.locate = {
-                index1: '/',
-                index2: '/index.html',
-                vacancy: '/vacancy.html',
-                contacts: '/contacts.html'
-            };
-        }
+        shch.locate = {
+            index1: '/',
+            index2: '/index.html',
+            vacancy: '/vacancy.html',
+            contacts: '/contacts.html'
+        };
         shch['.overno'] = new shch.RefreshClass('.overno', 'overyes', '', '.burger');
         shch['.overno']['.overno'].addAct();
         document.querySelector('.nav-folio').addEventListener('click', shch.foloiButton);
