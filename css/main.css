@@ -3676,6 +3676,13 @@ canvas {
 /*Lines*/
 
 @media (min-width: 1360px) {
+
+    .buttonmiddle-footer {
+        margin-left: 58.9%;
+    }
+}
+
+@media (min-width: 1360px) {
     .footer__p5 {
         padding-left: 6%;
     }
@@ -3768,7 +3775,7 @@ canvas {
     }
 
     .buttonmiddle-footer {
-        margin-left: 44.9%;
+        margin-left: 45.9%;
     }
 
     .common__form {
