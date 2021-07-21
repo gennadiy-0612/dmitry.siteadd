@@ -3676,6 +3676,11 @@ canvas {
 /*Lines*/
 
 @media (min-width: 1300px) {
+    .back-site {
+        width: 166.4%;
+        left: -33.2%;
+    }
+
     .buttonmiddle-footer {
         margin-left: 54.4%;
     }
